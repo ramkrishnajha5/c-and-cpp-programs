@@ -1,3 +1,5 @@
+/* program to find cube of a number by function we created in different type
+of fuctions in these function file*/  
 #include<stdio.h>
 
 void cube();

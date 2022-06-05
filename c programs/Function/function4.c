@@ -1,3 +1,4 @@
+/* program to find diameter circumfrences and area of a circle by entering radius of circle*/
 #include<stdio.h>
 #include<math.h>
 
