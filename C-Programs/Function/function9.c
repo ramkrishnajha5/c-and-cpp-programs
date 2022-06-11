@@ -8,19 +8,19 @@ int main()
     int pr,am,pe;
     pr = prime();
      if (pr == 0)
-    printf("\nPRIME NUMBER\n" );
+      printf("\nPRIME NUMBER\n" );
      else
-    printf("\nNOT PRIME NUMBER\n");
+      printf("\nNOT PRIME NUMBER\n");
     am = amstrong();
     if(am == 0)
-    printf("\nAMSTRONG NUMBER\n");
+      printf("\nAMSTRONG NUMBER\n");
     else
-    printf("\nNOT AMSTRONG NUMBER\n");
+      printf("\nNOT AMSTRONG NUMBER\n");
     pe = perfect();
     if (pe == 0)
-    printf("\nPERFECT NUMBER\n");
+      printf("\nPERFECT NUMBER\n");
     else
-    printf("\nNOT PERFECT NUMBER\n");
+      printf("\nNOT PERFECT NUMBER\n");
     return 0;
 }
 int prime()
