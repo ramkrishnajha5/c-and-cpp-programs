@@ -1,2 +1,2 @@
-# C-Programs
+# Programming Questions 
 assignment work given by college
