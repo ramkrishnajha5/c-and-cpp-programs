@@ -3,7 +3,8 @@ Uppercase, Lowercase, Digit or Special Symbol*/
 #include<iostream>
 using namespace std;
 
-int main(){
+int main()
+{
     char c;
     cout<<"Enter a character ";
     cin>>c;
