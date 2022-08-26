@@ -7,10 +7,10 @@ int main()
     printf("Enter a Number ");
     scanf("%d",&n);
     if(n>0)
-    printf("Positive Number");
+        printf("Positive Number");
     else if(n==0)
-    printf("Zero");
+        printf("Zero");
     else
-    printf("Negative Number");
+        printf("Negative Number");
     return 0;
 }
